@@ -3,5 +3,5 @@
 
 Ingreso al sistema:
 
-Usuario: admin
-Contraseña: admin
+**Usuario:** admin
+**Contraseña:** admin
